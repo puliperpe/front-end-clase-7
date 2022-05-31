@@ -1,22 +1,10 @@
-.contenedor{background-color:white;
-height: 20vh;
-margin: 5%;
-display: flex;
-justify-content: center;
-align-items: center;}
+.contenedor{display: flex;justify-content: center;}
 
-h1 { color: blue;
-    text-align: center;
-    background-color:rgb(118, 118, 118);}
+h1 { color: blue;text-align: center; background-color:rgb(118, 118, 118);}
 
-h2{color:blue;
-    background-color:rgb(118, 118, 118) }
+h2{color:blue;background-color:rgb(118, 118, 118) }
  
-footer{background-color: blueviolet;height: 50px;}
-
-
-.imagenes{height: 40px;
-    display:flex;
-justify-content: right;
-}
+footer{background-color: blueviolet;height:50px;display: flex;justify-content:space-between ;}
+.ochocientos{margin-left: 25px;}
+.imagenes{display: flex;height: 25px;margin-right: 25px;}
 
